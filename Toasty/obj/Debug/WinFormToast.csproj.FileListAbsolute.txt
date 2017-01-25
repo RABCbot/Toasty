@@ -1,0 +1,9 @@
+c:\users\rballada\documents\visual studio 2015\Projects\WinFormToast\WinFormToast\bin\Debug\WinFormToast.exe.config
+c:\users\rballada\documents\visual studio 2015\Projects\WinFormToast\WinFormToast\bin\Debug\WinFormToast.exe
+c:\users\rballada\documents\visual studio 2015\Projects\WinFormToast\WinFormToast\bin\Debug\WinFormToast.pdb
+c:\users\rballada\documents\visual studio 2015\Projects\WinFormToast\WinFormToast\obj\Debug\WinFormToast.Properties.Resources.resources
+c:\users\rballada\documents\visual studio 2015\Projects\WinFormToast\WinFormToast\obj\Debug\WinFormToast.csproj.GenerateResource.Cache
+c:\users\rballada\documents\visual studio 2015\Projects\WinFormToast\WinFormToast\obj\Debug\WinFormToast.exe
+c:\users\rballada\documents\visual studio 2015\Projects\WinFormToast\WinFormToast\obj\Debug\WinFormToast.pdb
+c:\users\rballada\documents\visual studio 2015\Projects\WinFormToast\WinFormToast\obj\Debug\WinFormToast.Form1.resources
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\WinFormToast\WinFormToast\obj\Debug\WinFormToast.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\bin\Debug\Toasty.exe.config
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\bin\Debug\Toasty.exe
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\bin\Debug\Toasty.pdb
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\obj\Debug\WinFormToast.Form1.resources
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\obj\Debug\Toasty.Properties.Resources.resources
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\obj\Debug\Toasty.csproj.GenerateResource.Cache
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\obj\Debug\Toasty.exe
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\obj\Debug\Toasty.pdb
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\bin\Debug\M2Mqtt.Net.dll
+C:\Users\RBallada\Documents\Visual Studio 2015\Projects\Toasty\Toasty\bin\Debug\M2Mqtt.Net.pdb
