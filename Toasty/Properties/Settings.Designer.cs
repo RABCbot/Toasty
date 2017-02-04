@@ -43,10 +43,10 @@ namespace Toasty.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("toasty\\#")]
-        public string topic {
+        [global::System.Configuration.DefaultSettingValueAttribute("toasty/attention|toasty/info")]
+        public string topics {
             get {
-                return ((string)(this["topic"]));
+                return ((string)(this["topics"]));
             }
         }
     }
